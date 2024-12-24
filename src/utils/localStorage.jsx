@@ -4,7 +4,7 @@ const employees = [
     id: 1,
     firstName: "Aarav",
     email: "emp1@eg.com",
-    password: "123",
+    password: "1234",
     tasks: [
       {
         title: "Prepare Sales Report",
